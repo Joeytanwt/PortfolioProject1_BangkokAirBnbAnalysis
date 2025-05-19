@@ -1,4 +1,4 @@
-# **App Store Profitability Analysis**  
+# **Bangkok Airbnb Analysis**  
 
 ## **Project Overview**  
 This project analyzes Airbnb listing data in Bangkok, Thailand, to uncover trends in pricing, occupancy, and host performance.  
